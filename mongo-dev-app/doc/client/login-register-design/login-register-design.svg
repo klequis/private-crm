@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="400"
+   viewBox="0 0 211.66667 105.83333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="login-register-design.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="400.27462"
+     inkscape:cy="199.15321"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-191.16668)">
+    <rect
+       style="fill:#dc0747;fill-opacity:1;stroke:none;stroke-width:0.12964351;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="148.92261"
+       height="79.374992"
+       x="32.505951"
+       y="198.72618" />
+    <g
+       id="g856"
+       transform="matrix(1.3025718,0,0,1.3025718,-48.340069,7.2963375)">
+      <rect
+         ry="1.8898809"
+         y="175.85864"
+         x="98.651787"
+         height="6.0476193"
+         width="36.285713"
+         id="rect817"
+         style="fill:#ffffff;fill-opacity:1;stroke:#c8c8c8;stroke-width:0.1984375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path823"
+         d="m 101.48661,180.31859 h 30"
+         style="fill:none;stroke:#000000;stroke-width:0.19541568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text827"
+         y="179.28156"
+         x="102.23199"
+         style="font-style:normal;font-weight:normal;font-size:6.52956295px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.16323906"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.48243356px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#646464;fill-opacity:1;stroke-width:0.16323906"
+           y="179.28156"
+           x="102.23199"
+           id="tspan825"
+           sodipodi:role="line">Email</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="89.455711"
+       y="219.74165"
+       id="text850"><tspan
+         sodipodi:role="line"
+         id="tspan848"
+         x="89.455711"
+         y="219.74165"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Login</tspan></text>
+    <g
+       id="g893"
+       transform="matrix(1.3025693,0,0,1.3025693,-99.543147,14.670209)">
+      <rect
+         ry="1.8898809"
+         y="182.09525"
+         x="137.9613"
+         height="6.0476193"
+         width="36.285713"
+         id="rect817-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#c8c8c8;stroke-width:0.1984375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path823-4"
+         d="m 140.79613,186.5552 h 30"
+         style="fill:none;stroke:#000000;stroke-width:0.19541568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text827-9"
+         y="185.51816"
+         x="141.5415"
+         style="font-style:normal;font-weight:normal;font-size:6.52956295px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.16323906"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.48243356px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#646464;fill-opacity:1;stroke-width:0.16323906"
+           y="185.51816"
+           x="141.5415"
+           id="tspan825-1"
+           sodipodi:role="line">Password</tspan></text>
+    </g>
+  </g>
+</svg>

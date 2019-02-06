@@ -1,0 +1,70 @@
+{
+  "name": "events-admin",
+  "version": "0.1.0",
+  "description": "server for rotary project",
+  "scripts": {
+    "babel-node": "babel-node",
+    "start": "export NODE_ENV=development || SET \"NODE_ENV=development\" && nodemon --exec npm run babel-node -- server/server.js",
+    "test": "export NODE_ENV=test || SET \"NODE_ENV=test\" && mocha --require babel-register"
+  },
+  "engines": {
+    "node": "^8.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://"
+  },
+  "keywords": [
+    "Node.js",
+    "Javascript",
+    "Express"
+  ],
+  "author": "klequis",
+  "dependencies": {
+    "@types/mongodb": "^3.1.1",
+    "aws-sdk": "^2.256.1",
+    "babel-polyfill": "^6.26.0",
+    "babel-runtime": "^6.26.0",
+    "body-parser": "1.18.2",
+    "cors": "2.8.4",
+    "dotenv": "^6.0.0",
+    "express": "4.14.0",
+    "formidable": "^1.2.1",
+    "left-pad": "^1.3.0",
+    "mongodb": "^3.1.1",
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.6",
+    "babel-plugin-transform-async-to-module-method": "^6.24.1",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.1.2",
+    "chalk": "2.4.0",
+    "eslint": "4.19.1",
+    "eslint-plugin-import": "2.11.0",
+    "mocha": "^5.1.1",
+    "morgan": "1.9.0",
+    "nodemon": "1.17.1",
+    "supertest": "3.0.0"
+  },
+  "eslintConfig": {
+    "parser": "babel-eslint",
+    "extends": [
+      "eslint:recommended",
+      "plugin:import/errors"
+    ],
+    "rules": {
+      "no-use-before-define": 0,
+      "arrow-body-style": 0,
+      "dot-notation": 0,
+      "no-console": 0
+    },
+    "env": {
+      "mocha": true
+    }
+  }
+}
