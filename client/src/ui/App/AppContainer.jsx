@@ -72,7 +72,7 @@ class AppContainer extends React.Component {
     } else if ((/^\/edit-event\//.test(currPath))) {
 
     } else {
-      this.props.searchTextUnset()
+      // this.props.searchTextUnset()
       let prevPath = undefined
       if (!prevProps === undefined) {
         prevPath = prevProps.location.pathname
@@ -122,6 +122,7 @@ const mapStateToProps = (state) => {
     userId: getUserId(state)
   }
 }
+
 
 export default compose(
   withRoot,

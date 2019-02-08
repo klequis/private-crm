@@ -1,17 +1,17 @@
 // eslint-disable-next-line
 import { yellow } from 'logger'
 
-export const getAllEvents = (state) => {
-  const r = state.events || []
+export const getAllPeople = (state) => {
+  const r = state.people || []
   return r
 }
 
-export const getEventById = (state, eventId) => {
-  return state.events.find(e => e._id === eventId)
+export const getPersonById = (state, personId) => {
+  return state.people.find(e => e._id === personId)
 }
 
-export const getEventsForUserId = (state, id) => {
-  const r = state.events.filter(e => e.userId === id)
+export const getPeopleForUserId = (state, id) => {
+  const r = state.people.filter(e => e.userId === id)
   return r[0]
 }
 

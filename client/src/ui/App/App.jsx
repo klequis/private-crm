@@ -19,8 +19,9 @@ import AppBar from 'ui/AppBar'
 // import EventForm from 'ui/EventForm'
 // import SearchEvents from 'ui/SearchEvents'
 import AppDrawer from 'ui/AppDrawer'
-import Footer from 'ui/Footer'
+// import Footer from 'ui/Footer'
 // import Hero from 'ui/Hero'
+import People from 'ui/People'
 
 const App = (props) => {
   const { classes } = props
@@ -38,7 +39,9 @@ const App = (props) => {
       <AppDrawer />
       <div id='App-content' className={classes.contentWrapper}>
         <div id='App-content' className={classes.content}>
+            <People />
           <Switch>
+
             <PrivateRoute exact path='/settings' component={SettingsForm} />
             {/* <Route exact path='/' component={Events} /> */}
             {/* <PrivateRoute exact path='/my-events' component={MyEvents} /> */}
@@ -53,20 +56,18 @@ const App = (props) => {
         </div>
       </div>
       <footer id='App-footer' className={classes.footer}>
-        <Footer />
+        {/* <Footer /> */}
       </footer>
     </div>
   )
 }
 
 const styles = theme => ({
-  fakeContent: {
-    height: 400,
-  },
   wrapper: {
-    backgroundColor: 'white',
     display: 'flex',
     flexDirection: 'column',
+    height: '100vh',
+    paddingTop: 20,
   },
   contentWrapper: {
     flex: '1 0 auto',

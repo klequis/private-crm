@@ -25,7 +25,12 @@
       label: ['home', 'work', 'other']
     }
   ]
-  notes: '??'
+  notes: [
+    {
+      date: 'date',
+      note: 'text',
+    }
+  ]
   relationshipStrength: 'number' // 1 to 4
   connectionFrom: [
     'TvcMember',
@@ -34,6 +39,8 @@
   ]
   socialMedia: {
     linkedIn: ''
-  },
+  }
   haveMet: 'boolean'
+  wantToMeet: 'boolean'
+  active: 'boolean'
 }
