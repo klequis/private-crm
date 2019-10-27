@@ -53,6 +53,7 @@ describe.skip('dbFunctions', () => {
     dropPeopleCollection()
   })
 
+  // person id
   let pid
 
   it('should add more than one person', async () => {
